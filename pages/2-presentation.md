@@ -9,6 +9,8 @@
 <div my-10 w-min flex="~ gap-1" items-center justify-center>
   <mdi:github op50 ma text-xl mr-1/>
  <div><a href="https://github.com/JoshDev1205?tab=repositories" target="_blank" font-300>@JoshDev1205</a></div>
+  <mdi:linkedin op50 ma text-xl mr-1/>
+  <div><a href="https://www.linkedin.com/in/joshdev1205/" target="_blank" font-300>@JoshOspina</a></div>
 </div>
 
 <img src="https://github.com/JoshDev1205.png" rounded-full w-35 abs-tr mt-32 mr-40/>
